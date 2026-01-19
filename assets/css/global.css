@@ -14,13 +14,17 @@
     background-color: #77c470;
 }
 
+.fire {
+    background-color: orange;
+}
+
 body {
-    background-color: coral;
+    background-color: rgb(221, 235, 224);
 }
 
 .conteudo {
     padding: 1rem;
-    background-color: brown;
+    background-color: rgb(166, 199, 157);
     margin: 1rem;
     border-radius: 1rem;
     display: flex;
@@ -29,7 +33,7 @@ body {
 }
 
 .conteudo h1 {
-    color: burlywood;
+    color: rgb(221, 235, 224);
     text-align: center;
 }
 
